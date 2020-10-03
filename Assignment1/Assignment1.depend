@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1568902942 source:c:\users\tasfi\onedrive\desktop\assignment1\customer.cpp
+	"Customer.h"
+
+1568902571 c:\users\tasfi\onedrive\desktop\assignment1\customer.h
+	<iostream>
+
+1568902923 source:c:\users\tasfi\onedrive\desktop\assignment1\queue.cpp
+
+1568902937 source:c:\users\tasfi\onedrive\desktop\assignment1\server.cpp
+
+1568904775 source:c:\users\tasfi\onedrive\desktop\assignment1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1568904775 source:c:\users\tasfi\onedrive - university of wollongong\uow\uow\semester 3\csci203_algorithms_and_data_structures\assignment\assignment1\assignment1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
